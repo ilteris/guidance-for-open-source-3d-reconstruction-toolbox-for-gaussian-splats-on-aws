@@ -1,3 +1,4 @@
+#to read 
 # Local Debug Mode
 
 This document explains how to run the 3D reconstruction with Gaussian Splatting container locally using the `LOCAL_DEBUG` mode.
